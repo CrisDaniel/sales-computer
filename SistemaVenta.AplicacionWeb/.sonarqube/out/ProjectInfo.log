@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\SistemaVenta.Entity.csproj
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\SistemaVenta.DAL.csproj
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.BLL\SistemaVenta.BLL.csproj
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.IOC\SistemaVenta.IOC.csproj
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\SistemaVenta.AplicacionWeb.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

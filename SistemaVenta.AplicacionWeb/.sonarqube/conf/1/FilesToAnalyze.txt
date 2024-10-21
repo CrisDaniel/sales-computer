@@ -1,0 +1,5 @@
+﻿D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\DBContext\DBVENTAContext.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\Implementacion\GenericRepository.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\Implementacion\VentaRepository.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\Interfaces\IGenericRepository.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\Interfaces\IVentaRepository.cs

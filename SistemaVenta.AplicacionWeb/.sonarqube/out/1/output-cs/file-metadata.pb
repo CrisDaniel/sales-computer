@@ -1,0 +1,9 @@
+n
+cD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.csutf-8|
+qD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8p
+eD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GlobalUsings.g.csutf-8Y
+PD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\Interfaces\IVentaRepository.csutf-8V
+MD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\DBContext\DBVENTAContext.csutf-8^
+UD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\Implementacion\GenericRepository.csutf-8[
+RD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\Interfaces\IGenericRepository.csutf-8\
+SD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.DAL\Implementacion\VentaRepository.csutf-8

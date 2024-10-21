@@ -1,0 +1,12 @@
+﻿D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Categoria.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Configuracion.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\DetalleVenta.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Menu.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Negocio.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\NumeroCorrelativo.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Producto.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Rol.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\RolMenu.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\TipoDocumentoVenta.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Usuario.cs
+D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Venta.cs

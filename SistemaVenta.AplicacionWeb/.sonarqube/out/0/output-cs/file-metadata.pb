@@ -1,0 +1,16 @@
+t
+iD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.csutf-8
+tD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8v
+kD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GlobalUsings.g.csutf-8F
+=D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Venta.csutf-8H
+?D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Usuario.csutf-8S
+JD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\TipoDocumentoVenta.csutf-8H
+?D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\RolMenu.csutf-8D
+;D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Rol.csutf-8I
+@D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Producto.csutf-8R
+ID:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\NumeroCorrelativo.csutf-8H
+?D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Negocio.csutf-8E
+<D:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Menu.csutf-8M
+DD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\DetalleVenta.csutf-8N
+ED:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Configuracion.csutf-8J
+AD:\SGV-CSII\SolucionSistemaVenta\SistemaVenta.Entity\Categoria.csutf-8
